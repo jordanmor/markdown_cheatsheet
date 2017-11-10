@@ -1,4 +1,4 @@
-# Markdown Cheat Sheet - Concise
+# Markdown Cheat Sheet
 
 ## Headlines, Paragraphs, and Basic Formatting
 ```
@@ -202,22 +202,16 @@ Type some alt text in square brackets in case the image cannot be shown for any 
 Follow that with the url for the image in parenthesis 
 and an exclamation mark in front of the square brackets.
 
-`![Kittens](https://placekitten.com/250/400)`
-
-![Kittens](https://placekitten.com/250/400)
+`![Alt Text](https://example.com/image)`
 
 If you want the image to link to something, add square brackets around your whole image code. 
 At the end of the new square brackets, put the link url in parenthesis.
 
-`[![Kittens](https://placekitten.com/250/400)](https://placekitten.com)`
-
-[![Kittens](https://placekitten.com/250/400)](https://placekitten.com)
+`[![Alt Text](https://example.com/image)](https://example.com)`
 
 If you want your image to have a title, add a space and put the title in quotes after the image url.
 
-`[![Kittens](https://placekitten.com/350/400 "Curious Kitten")](https://placekitten.com)`
-
-[![Kittens](https://placekitten.com/350/400 "Curious Kitten")](https://placekitten.com)
+`[![Alt Text](https://example.com/image "Curious Kitten")](https://example.com)`
 
 
 
