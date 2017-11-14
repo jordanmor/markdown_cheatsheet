@@ -211,7 +211,7 @@ At the end of the new square brackets, put the link url in parenthesis.
 
 If you want your image to have a title, add a space and put the title in quotes after the image url.
 
-`[![Alt Text](https://example.com/image "Curious Kitten")](https://example.com)`
+`[![Alt Text](https://example.com/image "Picture Title")](https://example.com)`
 
 
 
